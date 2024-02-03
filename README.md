@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weather Application](https://github.com/VladoJakovleski/weather-app.git) and Portfolio Website
 
-- 🌱 I’m currently learning **JavaScript, React Native, React JS, Next JS, Tailwind, Python, HTML, CSS, SQL, NoSQL, Figma, C, C++ and etc.**
+- 🌱 I’m currently learning **JavaScript, React Native, React JS, Next JS, Tailwind, Python, SQL, NoSQL, Figma and etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VladoJakovleski?tab=repositories](https://github.com/VladoJakovleski?tab=repositories)
 
