@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlado Jakovleski</h1>
 <h3 align="center">A passionate student and developer from Macedonia</h3>
 
-- 🔭 I’m currently working on [Weather Application](https://github.com/VladoJakovleski/weather-app.git) and [Portfolio Website]()
+- 🔭 I’m currently working on [Weather Application](https://github.com/VladoJakovleski/weather-app.git) and Portfolio Website
 
 - 🌱 I’m currently learning **JavaScript, React Native, React JS, Next JS, Tailwind, Python, HTML, CSS, SQL, NoSQL, Figma, C, C++ and etc.**
 
